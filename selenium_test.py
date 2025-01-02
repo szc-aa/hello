@@ -3,6 +3,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+"""assssasas"""
 
 baidu_search = {
     'button_search':'//input[@value = "百度一下"]',
